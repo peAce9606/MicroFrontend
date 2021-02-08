@@ -36,7 +36,7 @@ $ npm run serve:single-spa:mf-angular
 ```sh
 $ cd mf-react
 $ npm i
-$ npm run serve:single-spa:mf-angular
+$ npm start
 ```
 ```javascript
 // runs on http://localhost:8080
